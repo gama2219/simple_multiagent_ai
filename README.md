@@ -18,7 +18,7 @@
 2.  Supervisor Initializes: The Supervisor Agent, powered by LangGraph, analyzes the query and determines the optimal path.
 3.  Data Loading (if needed): If the query requires external data, the Supervisor delegates to the **Data Loader Agent**.
      The Data Loader fetches and processes necessary information.
-4.  Research :The Supervisor then instructs the "Research Agent" to conduct in-depth analysis, summarize findings, or generate creative content based on the query .
+4.  Research :The Supervisor then instructs the "Research Agent" to conduct in-depth analysis  or generate creative content based on the query .
      The Research Agent may use its own tools (e.g., web search, knowledge bases).
 5.  **Final Response Generation:** The Supervisor synthesizes the outputs from both agents into a coherent, comprehensive, and user-friendly text response.
 6.  **Response Delivered:** The final answer is presented back to the user within the Gradio chatbot.
