@@ -1,7 +1,8 @@
 # simple_multiagent_ai
  A simple multi-agent system designed to dynamically coordinate specialized AI agents and their tools to intelligently respond to user queries.
  
-![agent2](https://github.com/user-attachments/assets/eedb6bd4-7ded-41b8-97ee-03a248c4fdc5)
+![simpleagent1](https://github.com/user-attachments/assets/51323808-59df-4e53-9271-4c0f1c50eb15)
+
 
 # ✨ Key Features
 
@@ -81,5 +82,6 @@ Once installed and configured, you can launch the Gradio chatbot interface.
 4.  **Interact with the Chatbot:**
     * Type your query into the input box and press Enter.
     * Observe how the multi-agent system processes your request and provides a text-based response.
+![agent2](https://github.com/user-attachments/assets/eedb6bd4-7ded-41b8-97ee-03a248c4fdc5)
 
 ---
