@@ -1,6 +1,7 @@
 # simple_multiagent_ai
  A simple multi-agent system designed to dynamically coordinate specialized AI agents and their tools to intelligently respond to user queries.
-
+ 
+!simple_multiagent_ai/images/agent2.PNG
 
 # ✨ Key Features
 
