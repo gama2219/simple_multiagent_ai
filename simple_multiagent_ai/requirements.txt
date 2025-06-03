@@ -1,0 +1,9 @@
+langchain_google_genai==2.1.5
+langgraph_supervisor==0.0.27
+youtube-transcript-api==1.0.3
+pytube==15.0.0
+gradio==5.32.1
+unstructured==0.17.2
+duckduckgo-search==8.0.2
+langchain-unstructured==0.1.6
+ai-data-science-team==0.0.0.9016
