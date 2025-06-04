@@ -25,8 +25,8 @@ prompt_=(
 
 checkpointer=InMemorySaver()
 
-data_loader_agent=create_react_agent(llm,tools=[youtube_transcript,web_page_loader,data_loader],name='data_loader',prompt="your are data_loader_agent can load youtube transcripts,get_file_info,list_directory_recursive,list_directory_contents,load_file,load_directory,search_files_by_pattern and load web page content")
-research_agent=create_react_agent(llm,tools=[search_tool,deep_search],name='researcher',prompt="your are a research agent that can search querys using duckduckgo")
+data_loader_agent=create_react_agent(llm,tools=[youtube_transcript,web_page_loader,data_loader],name='data_loader',prompt="you are data_loader_agent can load youtube transcripts,get_file_info,list_directory_recursive,list_directory_contents,load_file,load_directory,search_files_by_pattern and load web page content")
+research_agent=create_react_agent(llm,tools=[search_tool,deep_search],name='researcher',prompt="you are a research agent that can search querys using duckduckgo")
 
 app=create_supervisor([data_loader_agent,research_agent],
                       model=llm,
