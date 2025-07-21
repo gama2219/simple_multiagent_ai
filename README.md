@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    gh repo clone gama2219/simple_multiagent_ai
+    git clone https://github.com/gama2219/simple_multiagent_ai.git
     cd simple_multiagent_ai
     ```
 2.  **Navigate into the project directory:**
