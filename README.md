@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On macOS/Linux
-    # venv\Scripts\activate   # On Windows
+    venv\Scripts\activate   # On Windows
     ```
 4.  **Install dependencies:**
     ```bash
