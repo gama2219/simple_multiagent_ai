@@ -77,7 +77,7 @@ Once installed and configured, you can launch the Gradio chatbot interface.
 
 3.  **Access the Chatbot:**
     * This command will start a local Gradio server.
-    * Open your web browser and navigate to: `http://127.0.0.1:7860/`
+    * Open your web browser and navigate to: `http://127.0.0.1:7860`
 
 4.  **Interact with the Chatbot:**
     * Type your query into the input box and press Enter.
